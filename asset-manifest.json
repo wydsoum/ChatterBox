@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chatterbox/static/css/main.23c56fa4.css",
+    "main.js": "/chatterbox/static/js/main.d3789375.js",
+    "index.html": "/chatterbox/index.html",
+    "main.23c56fa4.css.map": "/chatterbox/static/css/main.23c56fa4.css.map",
+    "main.d3789375.js.map": "/chatterbox/static/js/main.d3789375.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23c56fa4.css",
+    "static/js/main.d3789375.js"
+  ]
+}
